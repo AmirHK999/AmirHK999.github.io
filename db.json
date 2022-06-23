@@ -1,0 +1,121 @@
+{
+  "Sidebar": [
+    {
+      "Title": "Telegram",
+      "Logo": "fa fa-telegram",
+      "Link": ""
+    },
+    {
+      "Title": "Instagram",
+      "Logo": "fa fa-instagram",
+      "Link": ""
+    },
+    {
+      "Title": "YouTube",
+      "Logo": "fa fa-youtube",
+      "Link": ""
+    },
+    {
+      "Title": "About",
+      "Logo": "fa fa-user",
+      "Link": ""
+    }
+  ],
+  "NavMenu": [
+    {
+      "Title": "Home",
+      "Link": "/"
+    },
+    {
+      "Title": "Coding",
+      "Link": "/coding"
+    },
+    {
+      "Title": "PC",
+      "Link": "/pc"
+    },
+    {
+      "Title": "About",
+      "Link": "/about"
+    }
+  ],
+  "BestVideos": [
+    {
+      "title": "Turning Windows 7 Into 10",
+      "date": "Jan 19, 2021",
+      "poster": "covers/win7to10.jpg",
+      "link": "",
+      "id": "b1"
+    },
+    {
+      "title": "Download From GooglePlay In Iran",
+      "date": "Aug 29, 2021",
+      "poster": "covers/googleplay.jpg",
+      "link": "",
+      "id": "b2"
+    },
+    {
+      "title": "Play COD Mobile On PC",
+      "date": "Jul 5, 2021",
+      "poster": "covers/codm.jpg",
+      "link": "",
+      "id": "b3"
+    },
+    {
+      "title": "Photo Slide Made By HTML,CSS,JS",
+      "date": "Nov 26, 2021",
+      "poster": "covers/htmlslides.jpg",
+      "link": "",
+      "id": "b4"
+    }
+  ],
+  "NewVideos": [
+    {
+      "title": "Photo Slide Made By HTML,CSS,JS",
+      "date": "Nov 26, 2021",
+      "poster": "covers/htmlslides.jpg",
+      "link": ""
+    },
+    {
+      "title": "Turning A Headphone To Computer Microphone",
+      "date": "Sep 8, 2021",
+      "poster": "covers/codm.jpg",
+      "link": ""
+    },
+    {
+      "title": "Download From GooglePlay In Iran",
+      "date": "Aug 29, 2021",
+      "poster": "covers/googleplay.jpg",
+      "link": ""
+    },
+    {
+      "title": "Turning Pro Evolution Soccer 2017 to Efootball 2022",
+      "date": "Sep 5, 2021",
+      "poster": "covers/pes22.jpg",
+      "link": ""
+    }
+  ],
+  "Carousel": [
+    {
+      "title": "Turning Windows 7 Into 10",
+      "class": "carousel-item active",
+      "poster": "covers/win7to10.jpg",
+      "link": "",
+      "detail": ""
+    },
+    {
+      "title": "Download From GooglePlay In Iran",
+      "class": "carousel-item",
+      "poster": "covers/googleplay.jpg",
+      "link": "",
+      "detail": ""
+    },
+    {
+      "title": "Play COD Mobile On PC",
+      "class": "carousel-item",
+      "poster": "covers/codm.jpg",
+      "link": "",
+      "detail": ""
+    }
+  ]
+}
